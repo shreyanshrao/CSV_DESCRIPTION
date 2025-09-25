@@ -1,0 +1,4 @@
+Customer_ID, Product_Name, Quantity, Unit_Price, Order_Date, Status
+CUST-001, Laptop Pro, 2, 1299.99, 2024-01-20, Shipped
+CUST-002, Wireless Mouse, 5, 29.99, 2024-01-21, Processing
+CUST-003, Monitor 24", 1, 299.99, 2024-01-22, Delivered

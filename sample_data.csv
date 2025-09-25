@@ -1,0 +1,6 @@
+Invoice_ID, Vendor_Name, Amount, Payment_Date
+INV-001, Acme Corp, 1500.00, 2024-01-15
+INV-002, Tech Solutions Inc, 2300.50, 2024-01-16
+INV-003, Global Services Ltd, 875.25, 2024-01-17
+INV-004, Digital Innovations, 3200.00, 2024-01-18
+INV-005, Enterprise Systems, 1100.75, 2024-01-19

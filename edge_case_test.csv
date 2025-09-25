@@ -1,0 +1,3 @@
+user_email,phone_number,zip_code,item_count,total_cost,shipping_address
+john@example.com,555-1234,12345,3,99.99,123 Main St
+jane@example.com,555-5678,67890,1,49.99,456 Oak Ave
